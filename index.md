@@ -1,3 +1,7 @@
+# Hamilton's First CS193 Homework
+- I like that you let people know vim and emacs exist
+- I like that everyone gets to properly learn how to use git
+- I like that the slideshows for the lectures are humorous :)
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣴⣦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⠿⠿⠿⠿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀
